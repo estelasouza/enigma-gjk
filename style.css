@@ -1,0 +1,86 @@
+body{
+    background: #FFFFFF url("./img/dark.png");
+    background-position: center;
+    font-family: "Roboto", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; 
+}
+
+h1{
+    color: rgb(190, 190, 190);
+    text-shadow: 0.1em 0.1em #333;
+    text-align: center;
+    padding: 30px 10% 0 10%;
+   
+}
+
+.countdownContainer{
+    text-align: center;
+    background: #ddd;
+    border: 3px solid#999;
+    padding: 15px;
+    box-shadow: 0 0 5px 3px #ccc; 
+}
+#hidden{
+    display: inline;
+}
+.info{
+    font-size: 80px;
+}
+.root {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.header {
+    padding: 15px 15px 0 15px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+p{
+    color: white;
+    size: 100px;
+    text-align: center;
+}
+.footer {
+    width: auto;
+    background-color:#ddd;
+    padding: 7px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-footer{
+    height: 35px;
+    margin: 0 10px;
+    width: 35px;
+}
+
+
+#div-hidden{
+    display: none;
+    text-align: center;
+    background: #ddd;
+    border: 3px solid#999;
+    padding: 15px;
+    box-shadow: 0 0 5px 3px #ccc; 
+}
+
+h2{
+    color:#333;
+    text-shadow: 0.1em 0.1em wheat;
+    text-align: center;
+    padding: 10px 10% 0 10%;
+}
