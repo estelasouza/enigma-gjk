@@ -50,9 +50,10 @@ h1{
     height: 100%;
 }
 p{
-    color: white;
+    color: rgba(238, 231, 231, 0.932);
     size: 100px;
     text-align: center;
+
 }
 .footer {
     width: auto;
