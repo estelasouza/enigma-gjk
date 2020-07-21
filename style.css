@@ -14,7 +14,7 @@ h1{
     color: rgb(190, 190, 190);
     text-shadow: 0.1em 0.1em #333;
     text-align: center;
-    padding: 30px 10% 0 10%;
+    padding: 30px 10% 25px 10%;
    
 }
 
@@ -53,6 +53,7 @@ p{
     color: rgba(238, 231, 231, 0.932);
     size: 100px;
     text-align: center;
+    padding-top: 20px;
 
 }
 .footer {
@@ -73,7 +74,7 @@ p{
 #div-hidden{
     display: none;
     text-align: center;
-    background: #ddd;
+    background: white;
     border: 3px solid#999;
     padding: 15px;
     box-shadow: 0 0 5px 3px #ccc; 
@@ -85,3 +86,8 @@ h2{
     text-align: center;
     padding: 10px 10% 0 10%;
 }
+
+/* .img-enigma{
+    width: 1500px;
+    height: 600px;
+} */
