@@ -14,7 +14,7 @@ h1{
     color: rgb(190, 190, 190);
     text-shadow: 0.1em 0.1em #333;
     text-align: center;
-    padding: 30px 10% 0 10%;
+    padding: 30px 10% 50px 10%;
    
 }
 
@@ -53,6 +53,8 @@ p{
     color: rgba(238, 231, 231, 0.932);
     size: 100px;
     text-align: center;
+    padding-top: 40px;
+
 
 }
 .footer {
