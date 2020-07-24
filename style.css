@@ -76,7 +76,7 @@ p{
 #div-hidden{
     display: none;
     text-align: center;
-    background: white;
+    background: rgb(112, 112, 112);
     border: 3px solid#999;
     padding: 15px;
     box-shadow: 0 0 5px 3px #ccc; 
