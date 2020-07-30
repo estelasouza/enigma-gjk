@@ -2,7 +2,7 @@ var interval = null;
 
 function countdown(){
     var now = new Date()
-    var eventDate = new Date(2020, 6, 28,18)
+    var eventDate = new Date(2020, 6, 30,18)
 
     var currentTime = now.getTime();
     var eventTime = eventDate.getTime();
