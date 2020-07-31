@@ -76,11 +76,7 @@ p{
 #div-hidden{
     display: none;
     text-align: center;
-<<<<<<< HEAD
     background-color: #333;
-=======
-  
->>>>>>> e540eb81bb2b38156882e505da80ff291ed13c8b
     padding: 15px;
     box-shadow: 0 0 5px 3px #ccc; 
 }
@@ -123,5 +119,5 @@ h2{
     display: none;
 }
 .tamanho{
-    width: 250px;
+    width: 400px;
 }
