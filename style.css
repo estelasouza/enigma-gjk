@@ -76,7 +76,11 @@ p{
 #div-hidden{
     display: none;
     text-align: center;
+<<<<<<< HEAD
     background-color: #333;
+=======
+  
+>>>>>>> e540eb81bb2b38156882e505da80ff291ed13c8b
     padding: 15px;
     box-shadow: 0 0 5px 3px #ccc; 
 }
@@ -86,4 +90,38 @@ h2{
     text-shadow: 0.1em 0.1em wheat;
     text-align: center;
     padding: 10px 10% 0 10%;
+}
+.qrcode{
+    height: 250px;
+    width: 250px;
+}
+
+.btn{
+   
+    width: 150px;
+    height: 50px;
+    background-color: #333;
+    color: #ddd;
+    font-size: 20px;
+    border: 2px;
+    padding: 5px;
+}
+
+
+.btn:hover, .btn:focus, .btn:active{
+    background-color: #999;
+    position: relative;
+    top: 3px;
+}
+
+#hidden-img1{
+    display: none;
+}
+
+
+#hidden-img2{
+    display: none;
+}
+.tamanho{
+    width: 250px;
 }
